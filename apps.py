@@ -80,8 +80,8 @@ def main():
         """
         <style>
         .stApp {
-            background-color: #f0f2f6;
-            color: #262730;
+            background-color: #000000;
+            color: #ffffff;
             font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
         }
         .stButton>button {
